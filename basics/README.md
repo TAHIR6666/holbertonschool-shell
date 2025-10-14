@@ -1,2 +1,2 @@
-création d'un fichiercd ..
-kugkhi
+#!/bin/bash
+cd
