@@ -1,1 +1,2 @@
-readmi
+#!/bin/bash
+pwd
