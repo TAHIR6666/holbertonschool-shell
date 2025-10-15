@@ -1,1 +1,2 @@
-zoup
+#!/bin/bash
+chmod 715 hello
