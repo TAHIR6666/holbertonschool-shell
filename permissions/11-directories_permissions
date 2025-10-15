@@ -1,9 +1,8 @@
 #!/bin/bash
 # Script pour ajouter la permission d'exécution à tous les sous-répertoires du répertoire courant
-# pour l'utilisateur, le groupe et les autres utilisateurs
 
 for item in *; do
   if [ -d "$item" ]; then
-    chmod a+x "$item"
+    chmod u+x,g+x,o+x "$item"
   fi
-done 
+done
