@@ -1,1 +1,2 @@
-bouger
+#!/bin/bash
+rm -f *~ 
