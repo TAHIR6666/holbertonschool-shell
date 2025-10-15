@@ -1,1 +1,2 @@
-pute
+#!/bin/bash
+touch hello
