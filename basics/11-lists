@@ -1,8 +1,2 @@
 #!/bin/bash
-# Script pour lister tous les fichiers (y compris les fichiers cachés)
-# dans le répertoire courant, le répertoire parent et /boot
-# en format long
-
-ls -la .        # Liste les fichiers du répertoire courant
-ls -la ..       # Liste les fichiers du répertoire parent
-ls -la /boot    # Liste les fichiers du répertoire /boot
+ls -la
