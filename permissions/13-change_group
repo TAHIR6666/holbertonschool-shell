@@ -1,1 +1,2 @@
-creation
+#!/bin/bash
+chgrp school hello
